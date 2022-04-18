@@ -43,6 +43,7 @@
 
 .container{
     display: flex;
+   
 }
 
 .infocontainer{
@@ -52,7 +53,8 @@
     margin: 92px auto;
     display: flex;
     justify-content: space-around;
-    border-radius: 12vh;
+    border-radius: 10px;
+    margin-left: 6rem;
 }
 
 .devInfo{
